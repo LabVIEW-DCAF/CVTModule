@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:24:36" Modified_Date="2014-08-01 11:38:04" Creator="Daniel" Comments="" ID="2ff53a75b2adcc9ec267441c16ff65d1">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:24:36" Modified_Date="2014-09-24 13:19:43" Creator="Daniel" Comments="" ID="4db50e537c0d690d8ff1d1d9fbaf1ed8">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_cvt_editnode</Package_File_Name>
-    <Library_Version>1.0.0.17</Library_Version>
+    <Library_Version>1.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\..\package releases\CVT\editor</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\releases\modules\CVT</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Removed check-in/check-out functionality from editor in favor of lock/unlock.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
