@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2014-12-08 14:28:55" Creator="Daniel" Comments="" ID="4d4fa74b273747c3b9200b9eedc4091a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2014-12-08 23:28:53" Creator="Daniel" Comments="" ID="c855ec17621782cfa3c8cac005f07846">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_cvt</Package_File_Name>
-    <Library_Version>2.0.0.3</Library_Version>
+    <Library_Version>2.0.1.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\releases\modules\CVT</Library_Output_Folder>
@@ -18,7 +18,7 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <Additional_External_Dependencies>ni_lib_cvt &gt;=3.3.0.8</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.0.2.1</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.0.5.3</Additional_External_Dependencies>
       <Package_Conflicts>ni_lib_cvt_editnode &gt;=1.0.0.14</Package_Conflicts>
       <Package_Conflicts>ni_lib_cvt_tbm &gt;=1.0.0.11</Package_Conflicts>
     </Package_Dependencies>
