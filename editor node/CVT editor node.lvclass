@@ -66,64 +66,6 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 		</Item>
 	</Item>
-	<Item Name="Properties" Type="Folder">
-		<Item Name="Allowed Execution Modes" Type="Property Definition">
-			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Allowed Execution Modes</Property>
-			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Allowed Execution Modes</Property>
-			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-			<Item Name="read allowed execution modes.vi" Type="VI" URL="../read allowed execution modes.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(F!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!+)!]1!!!!!!!!!$*6"-)%:S97VF&gt;W^S;S"$&lt;WZG;7&gt;V=G&amp;U;7^O)&amp;2P&lt;WQO&lt;(:M;7);&lt;7^E&gt;7RF)'6E;82P=C"O&lt;W2F,GRW9WRB=X-&lt;17RM&lt;X&gt;F:#"&amp;?'6D&gt;82J&lt;WYA47^E:8-O9X2M!$V!&amp;A!##V.Z&lt;G.I=G^O&lt;X6T$%&amp;T?7ZD;(*P&lt;G^V=Q!!&amp;GVP:(6M:3"F?'6D&gt;82J&lt;WYA&lt;7^E:8-!!#2!1!!"`````Q!&amp;&amp;W&amp;M&lt;'^X:71A:8BF9X6U;7^O)'VP:'6T!$:!=!!?!!!:&amp;U.76#"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!".$6F1A:72J&gt;'^S)'ZP:'5A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!W1(!!(A!!'2&gt;$6F1A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!31V:5)'6E;82P=C"O&lt;W2F)'FO!!"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!I!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
-			</Item>
-		</Item>
-		<Item Name="Channel URLs" Type="Property Definition">
-			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Channel URLs</Property>
-			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Channel URLs</Property>
-			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-			<Item Name="Read Channel URL list.vi" Type="VI" URL="../Read Channel URL list.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/1W^N='^O:7ZU)%ZB&lt;75!!"*!1!!"`````Q!&amp;"&amp;634(-!!$:!=!!?!!!:&amp;U.76#"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!".$6F1A:72J&gt;'^S)'ZP:'5A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!W1(!!(A!!'2&gt;$6F1A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!31V:5)'6E;82P=C"O&lt;W2F)'FO!!"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1-!!(A!!!E!!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!I!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
-			</Item>
-		</Item>
-		<Item Name="Config Class Name" Type="Property Definition">
-			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Config Class Name</Property>
-			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Config Class Name</Property>
-			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-			<Item Name="Read Configuration Class Name.vi" Type="VI" URL="../Read Configuration Class Name.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%T!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````]+1WRB=X-A4G&amp;N:1!!.E"Q!"Y!!"E81V:5)'6E;82P=C"O&lt;W2F,GRW9WRB=X-!%U.76#"F:'FU&lt;X)A&lt;G^E:3"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!$:!=!!?!!!:&amp;U.76#"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!"*$6F1A:72J&gt;'^S)'ZP:'5A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1350836736</Property>
-			</Item>
-		</Item>
-		<Item Name="Module Menu Name" Type="Property Definition">
-			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Module Menu Name</Property>
-			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Module Menu Name</Property>
-			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-			<Item Name="Read Module Menu Name.vi" Type="VI" URL="../Read Module Menu Name.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]*476O&gt;3"/97VF!$:!=!!?!!!:&amp;U.76#"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!".$6F1A:72J&gt;'^S)'ZP:'5A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!W1(!!(A!!'2&gt;$6F1A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!31V:5)'6E;82P=C"O&lt;W2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1350836736</Property>
-			</Item>
-		</Item>
-	</Item>
 	<Item Name="table api" Type="Folder">
 		<Item Name="view conversion" Type="Folder">
 			<Item Name="classification to display permissions.vi" Type="VI" URL="../classification to display permissions.vi">
