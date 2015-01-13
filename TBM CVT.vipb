@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2015-01-09 18:31:20" Creator="Daniel" Comments="" ID="c9d48f880db4dc399f430533d15794c6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2015-01-13 17:18:52" Creator="Daniel" Comments="" ID="2149051ddd246970642dd77c92b774c9">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_cvt</Package_File_Name>
-    <Library_Version>2.0.1.6</Library_Version>
+    <Library_Version>2.0.2.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\releases\modules\CVT</Library_Output_Folder>
