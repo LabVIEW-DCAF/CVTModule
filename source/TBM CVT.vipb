@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2016-06-20 12:37:19" Creator="Daniel" Comments="" ID="cda775d2d0a6247a41093ab6246136a9">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2016-06-20 13:01:25" Creator="Daniel" Comments="" ID="045923b6a72ee0dc4b0d7091264a1856">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_cvt</Package_File_Name>
     <Library_Version>2.0.3.6</Library_Version>
@@ -119,7 +119,7 @@
         <Path>testing</Path>
       </Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>sample_code_license_terms_20141101.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
