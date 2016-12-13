@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2016-12-12 16:50:27" Creator="Daniel" Comments="" ID="c1bccaab88e16d5d6919ccd2d9b9b0e9">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 17:21:33" Modified_Date="2016-12-13 13:47:06" Creator="Daniel" Comments="" ID="977d07edfc07ac26f27baad3e48dcd78">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_cvt</Package_File_Name>
-    <Library_Version>2.1.0.6</Library_Version>
+    <Library_Version>2.1.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\CVT</Library_Output_Folder>
