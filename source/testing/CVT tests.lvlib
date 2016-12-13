@@ -9,42 +9,42 @@
 </Property>
 	<Item Name="channel operation tests.lvtest" Type="TestItem" URL="../channel operation tests.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:channel operation tests.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F97E4FA4-A8A1-5CE5-C729-DCDA3A3AAEC4</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">F76474FD-8387-6B33-C419-52DBD1C94034</Property>
 	</Item>
 	<Item Name="channel operation tests.vi" Type="VI" URL="../channel operation tests.vi"/>
 	<Item Name="channel qualification test.lvtest" Type="TestItem" URL="../channel qualification test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:channel qualification test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">815E4C92-6FCD-0F98-7406-247722DC17FB</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">4CE70AA0-2CDF-CB90-7C0D-82A01176B654</Property>
 	</Item>
 	<Item Name="channel qualification test.vi" Type="VI" URL="../channel qualification test.vi"/>
 	<Item Name="example test.lvtest" Type="TestItem" URL="../example test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:example test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">7EBA6ABE-FF3C-7369-D451-3166CC3A6EFF</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">832381AF-4D83-C4F6-B9DC-AF354536A9AB</Property>
 	</Item>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F73515DA-38A5-E73A-486D-84A70869AEF0</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">CC76455E-67AF-5767-708C-C8E0C2D50533</Property>
 	</Item>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.lvtest" Type="TestItem" URL="../modify channel test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:modify channel test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">A8EDD74C-A014-7A8C-C431-2ED9B60436A3</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">E22A5017-AF49-FD3D-11C7-FB9CF022E425</Property>
 	</Item>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="rename channel test.lvtest" Type="TestItem" URL="../rename channel test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:rename channel test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">9FC70F4B-F9CC-4520-623E-404CD0125942</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">26038DC6-6F78-C89B-325B-B89B4B321576</Property>
 	</Item>
 	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
 	<Item Name="runtime io test.lvtest" Type="TestItem" URL="../runtime io test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:runtime io test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">6EB95E85-F58C-50E2-B258-040FBB316A3C</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">6BE12656-4B64-D6D1-97DB-F5DA96036CAE</Property>
 	</Item>
 	<Item Name="runtime io test.vi" Type="VI" URL="../runtime io test.vi"/>
 	<Item Name="serialization tests.lvtest" Type="TestItem" URL="../serialization tests.lvtest">
 		<Property Name="utf.test.bind" Type="Str">CVT tests.lvlib:serialization tests.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">408CC5E4-088C-58B2-9E68-174D352D53EB</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">1ED81D10-EFEC-FEBB-596E-ADFCD344CAC4</Property>
 	</Item>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
 </Library>
