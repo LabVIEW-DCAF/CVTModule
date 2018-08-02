@@ -1,6 +1,6 @@
 # Overview
 
-The Current Value Table (CVT) module allows for storing and managing data in a single location that can be accessed in different parts of the application. In DCAF applications, the CVT module enables sharing data between the DCAF Tag Bus and parallel loops and processes.
+The Current Value Table (CVT) module allows for storing and managing data in a single location, enabling users to share data between DCAF engines or between a DCAF engine and any parallel LabVIEW code using the [CVT Library](https://forums.ni.com/t5/Reference-Design-Content/LabVIEW-Current-Value-Table-CVT-Library/ta-p/3514251).
 
 # Description
 
@@ -12,13 +12,15 @@ To share data between CVT and tag bus, the names need to match exactly (case sen
 
 The CVT may be accessed within modules, but should not be used as an alternative to the DCAF tag bus. The CVT may serve as a convenient mechanism to debug DCAF applications by providing access to selected tags with UI Reference modules to view and API calls to save a subset or all of the CVT to disk.
 
-# Configuration of the CVT Module
-
-CVT channel mappings are configured in the configuration UI (CVT editor node.lvclass:configuration UI.vi) in the Standard Configuration Editor.
+# Configuration
 
 ![image003.png](https://ni.i.lithium.com/t5/image/serverpage/image-id/207564i528FDA157B35B48A/image-size/large?v=1.0&px=999 "image003.png")
 
-In the screenshot above, “CVT Write” tag is updated from CVT while the “CVT Read” element of the CVT is updated from the tag bus.
+**Direction:**
+
+**Filter:** Filter tags displayed in *Available Tags*, *From CVT*, and *To CVT* lists using the LabVIEW [Match Pattern](http://zone.ni.com/reference/en-XX/help/371361L-01/glang/match_pattern/) primitive
+
+**Create Tags?:** When the CVT module initializes during runtime it will look up the indices of all tags to be written to or read from the Current Value Table. If *Create Tags?* is selected, the module will create any tags which it is not able to find, otherwise the module will fail to initialize.
 
 ### Steps before Configuration
 
@@ -55,6 +57,7 @@ All CVT writes and reads are optimized. To get the best possible performance, wr
 # Software Requirements
 
 +   LabVIEW 2014 or later
++   NI Current Value Table 3.3.0.13 or later
 
 # Limitations
 
