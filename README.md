@@ -16,11 +16,17 @@ The CVT may be accessed within modules, but should not be used as an alternative
 
 ![Configuration](Documentation/Images/Configuration.png)
 
-**Direction:**
+**Direction:** Choose whether you are configuring tags to be written to the CVT or configuring tags to be read from from the CVT. If *From CVT* is selected you will only be able to move tags into the *From CVT* listbox. Conversely, if *To CVT* is selected you will only be able to move tags into the *To CVT* listbox. The direction selected will also effect the visible items in *Available Tags*.
 
-**Filter:** Filter tags displayed in *Available Tags*, *From CVT*, and *To CVT* lists using the LabVIEW [Match Pattern](http://zone.ni.com/reference/en-XX/help/371361L-01/glang/match_pattern/) primitive
+**Filter:** Filter tags displayed in *Available Tags*, *From CVT*, and *To CVT* lists using the LabVIEW [Match Pattern](http://zone.ni.com/reference/en-XX/help/371361L-01/glang/match_pattern/) primitive.
 
-**Create Tags?:** When the CVT module initializes during runtime it will look up the indices of all tags to be written to or read from the Current Value Table. If *Create Tags?* is selected, the module will create any tags which it is not able to find, otherwise the module will fail to initialize.
+**Create Tags?:** When the CVT module initializes during runtime it will attempt to look up the indices of all tags configured to be written to or read from the Current Value Table. If *Create Tags?* is selected, the module will create any tags which it is not able to find, otherwise the module will fail to initialize.
+
+**Available Tags:** A list of tags which can be added to the *From CVT* or *To CVT* listboxes (depending on the selected direction).
+
+**From CVT:** List of tags which will be read from the CVT and put onto the engine's Tag Bus. Remove items from this list by selecting a tag from the *From CVT* listbox and clicking the left arrow. Add items to the list by selecting a tag from the *Available Tags* listbox and clicking the right arrow.
+
+**To CVT:** List of tags which will be read from the engine's Tag Bus and written to the CVT. Remove items from this list by selecting a tag from the *To CVT* listbox and clicking the left arrow. Add items to the list by selecting a tag from the *Available Tags* listbox and clicking the right arrow.
 
 # Software Requirements
 
