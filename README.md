@@ -8,7 +8,7 @@ The Current Value Table (CVT) module allows for storing and managing data in a s
 
 Any CVT tags accessed by the DCAF CVT module can also be accessed on the same target using the CVT API which can be found in the palettes at Functions>>Addons>>Current Value Table. The tag in the Current Value Table will have the same name as the tag used in the DCAF module configuration.
 
-![image006.png](https://ni.i.lithium.com/t5/image/serverpage/image-id/207566i54DEA064D9670EC1/image-size/large?v=1.0&px=999 "image006.png")
+![CVT_API](Documentation/Images/CVT_API.png)
 
 For more comprehensive documentation on using the CVT API, refer to the [LabVIEW Current Value Table Library](http://forums.ni.com/t5/Reference-Design-Content/LabVIEW-Current-Value-Table-CVT-Library/ta-p/3514251).
 
